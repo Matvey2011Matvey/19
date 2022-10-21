@@ -121,12 +121,12 @@ aside{
 }
 
 h1::before {
-    content: url("https://sun6-21.userapi.com/s/v1/ig2/q8vRX5P3DPWXjtI32awDjM4SS2lxsUOBFtt9CFVKjceFjLxNcDROSgmAmLGLq59p7wao7pqLmyeXAnDng1CHXLkP.jpg?size=50x50&quality=95&crop=135,97,214,214&ava=1");
+    content: url("/uploads/2021/03/click-38743_1280%201_0_1614962641.png");
     margin-right:10px;
 }
 
 h1::after {
-    content: url("https://sun6-21.userapi.com/s/v1/ig2/q8vRX5P3DPWXjtI32awDjM4SS2lxsUOBFtt9CFVKjceFjLxNcDROSgmAmLGLq59p7wao7pqLmyeXAnDng1CHXLkP.jpg?size=50x50&quality=95&crop=135,97,214,214&ava=1");
+    content: url("/uploads/2021/03/click-38743_1280%201_0_1614962641.png");
     margin-left:10px;
 }
 .address::before{
